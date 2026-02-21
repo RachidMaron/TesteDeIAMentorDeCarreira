@@ -1,0 +1,137 @@
+🧩 VISÃO DO DIA A DIA
+Como é o trabalho de um(a) Engenheiro(a) de Automação (RPA):
+
+Mapear processos repetitivos em sistemas e sites
+
+Desenvolver bots para automatizar tarefas administrativas e operacionais
+
+Integrar diferentes sistemas e bancos de dados via automação
+
+Monitorar e manter robôs em produção
+
+Colaborar com áreas de negócio para identificar oportunidades de automação
+
+🧠 MAPA DE SKILLS
+CORE SKILLS (essenciais):
+
+Lógica de programação e algoritmos
+
+Fundamentos de RPA (UiPath, Automation Anywhere, Power Automate)
+
+Manipulação de dados (Excel, SQL básico)
+
+NICE-TO-HAVE (complementares):
+
+Noções de Python para automação avançada
+
+Conhecimentos de APIs e integrações
+
+FERRAMENTAS E TECNOLOGIAS:
+
+UiPath
+
+Power Automate
+
+SQL Server / Excel
+
+📅 ROADMAP DE 90 DIAS
+ADAPTADO PARA: 7 horas/semana
+
+MÊS 1 - FUNDAMENTOS
+SEMANA 1-2:
+
+Entender o que é RPA e casos de uso
+
+Revisar lógica de programação (condições, loops, variáveis)
+
+SEMANA 3-4:
+
+Introdução ao UiPath/Power Automate
+
+Criar automações simples (ex: abrir site, extrair dados, salvar em Excel)
+
+MÊS 2 - PRÁTICA
+SEMANA 5-6:
+
+Automação de processos com múltiplos sistemas (ex: login, coleta de dados, envio de e-mails)
+
+Uso de Excel e SQL para manipulação de dados
+
+SEMANA 7-8:
+
+Criar bots que interagem com APIs
+
+Implementar tratamento de erros e logs básicos
+
+MÊS 3 - PORTFÓLIO E PREPARAÇÃO
+SEMANA 9-10:
+
+Projeto completo de automação de processo real (ex: cadastro de clientes em sistema)
+
+Documentar o fluxo e publicar no GitHub
+
+SEMANA 11-12:
+
+Revisão de boas práticas em RPA
+
+Preparação para entrevistas técnicas e comportamentais
+
+🚀 PROJETO DE PORTFÓLIO
+PROJETO: Bot de Cadastro Automático
+
+O QUE FAZER:  
+Criar um robô que lê dados de clientes em uma planilha Excel e os cadastra automaticamente em um sistema web.
+
+ENTREGÁVEIS:
+
+Script de automação funcional
+
+Documentação do fluxo (diagramas e instruções)
+
+Repositório no GitHub com código e exemplos
+
+CRITÉRIOS DE ACEITAÇÃO:
+
+Bot executa cadastro sem intervenção manual
+
+Tratamento de erros implementado
+
+Documentação clara e acessível
+
+DICA: Grave um vídeo curto mostrando o bot funcionando e inclua no portfólio.
+
+💬 ROTEIRO DE ENTREVISTAS
+PERGUNTA 1: "O que é RPA e por que é importante?"
+COMO RESPONDER: Explique que RPA é automação de processos repetitivos, aumentando eficiência e reduzindo erros.
+
+PERGUNTA 2: "Quais processos são bons candidatos para automação?"
+COMO RESPONDER: Processos repetitivos, baseados em regras, com alto volume e baixo valor agregado.
+
+PERGUNTA 3: "Como você lida com erros em automações?"
+COMO RESPONDER: Implementando logs, tratamento de exceções e notificações para monitoramento.
+
+PERGUNTA 4: "Qual a diferença entre RPA e scripts tradicionais?"
+COMO RESPONDER: RPA simula ações humanas em sistemas, enquanto scripts são mais técnicos e diretos.
+
+PERGUNTA 5: "Você já trabalhou com dados em automações?"
+COMO RESPONDER: Sim, usando Excel/SQL para manipular dados e integrá-los em processos automatizados.
+
+🎓 TRILHA DIO RECOMENDADA
+TRILHA: Formação Power Automate e RPA Developer
+
+POR QUE ESSA TRILHA:  
+Ela ensina desde fundamentos de automação até criação de bots completos com Power Automate, conectando diretamente com sua meta de crescer na função atual.
+
+PRÓXIMOS PASSOS:
+
+Acesse dio.me
+
+Busque por "Formação Power Automate e RPA Developer"
+
+Inscreva-se gratuitamente
+
+Siga o cronograma junto com este roadmap
+
+✨ Seu plano está pronto!
+
+Lembre-se: o mais importante é a constância, não a velocidade. Comece pela Semana 1 e vá no seu ritmo.
